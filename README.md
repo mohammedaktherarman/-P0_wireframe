@@ -1,6 +1,6 @@
 # WireFrame Web fet per Arman Mohammed Akther 
 
-# #Pàgina d'Inici:
+## Pàgina d'Inici:
 ![alt text](/captures/IMG_20241027_105340.jpg)
 
 ## Catàleg dels productes:
